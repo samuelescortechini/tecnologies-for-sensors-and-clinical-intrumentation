@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
-      <img src="simulation.png" alt="Geant4 PET Simulation" width="200">
+      <img src="simulation.png" alt="Geant4 PET Simulation" width="400">
     </td>
     <td>
       <p>
