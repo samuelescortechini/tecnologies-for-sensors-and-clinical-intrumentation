@@ -1,0 +1,214 @@
+#
+# Macro file of "exampleB3.cc"
+# To be run preferably in batch, without graphics:
+# % exampleB3 run3.mac
+#
+#/run/numberOfThreads 4
+/control/saveHistory
+
+
+/detector/cryst_dZ 100
+/run/geometryModified
+/run/initialize
+
+#
+/control/verbose 0
+/tracking/verbose 0
+/material/verbose 0
+/vis/verbose warnings
+#
+/run/beamOn 10000
+
+#/control/echo run0 done
+
+#prossima run
+
+/detector/cryst_dZ 2
+/run/geometryModified
+/run/initialize
+/run/reinitializeGeometry true
+/run/initialize
+/run/constructScoringWorlds
+/run/beamOn 10000
+
+#prossima run
+
+/detector/cryst_dZ 3
+/run/geometryModified
+/run/initialize
+/run/reinitializeGeometry true
+/run/initialize
+/run/constructScoringWorlds
+/run/beamOn 10000
+
+#prossima run
+
+/detector/cryst_dZ 4
+/run/geometryModified
+/run/initialize
+/run/reinitializeGeometry true
+/run/initialize
+/run/constructScoringWorlds
+/run/beamOn 10000
+
+#prossima run
+
+/detector/cryst_dZ 5
+/run/geometryModified
+/run/initialize
+/run/reinitializeGeometry true
+/run/initialize
+/run/constructScoringWorlds
+/run/beamOn 10000
+
+#prossima run
+
+/detector/cryst_dZ 6
+/run/geometryModified
+/run/initialize
+/run/reinitializeGeometry true
+/run/initialize
+/run/constructScoringWorlds
+/run/beamOn 10000
+
+#prossima run
+
+/detector/cryst_dZ 7
+/run/geometryModified
+/run/initialize
+/run/reinitializeGeometry true
+/run/initialize
+/run/constructScoringWorlds
+/run/beamOn 10000
+
+#prossima run
+
+/detector/cryst_dZ 8
+/run/geometryModified
+/run/initialize
+/run/reinitializeGeometry true
+/run/initialize
+/run/constructScoringWorlds
+/run/beamOn 10000
+
+#prossima run
+
+/detector/cryst_dZ 9
+/run/geometryModified
+/run/initialize
+/run/reinitializeGeometry true
+/run/initialize
+/run/constructScoringWorlds
+/run/beamOn 10000
+
+#prossima run
+
+/detector/cryst_dZ 10
+/run/geometryModified
+/run/initialize
+/run/reinitializeGeometry true
+/run/initialize
+/run/constructScoringWorlds
+/run/beamOn 10000
+
+#prossima run
+
+/detector/cryst_dZ 11
+/run/geometryModified
+/run/initialize
+/run/reinitializeGeometry true
+/run/initialize
+/run/constructScoringWorlds
+/run/beamOn 10000
+
+#prossima run
+
+/detector/cryst_dZ 12
+/run/geometryModified
+/run/initialize
+/run/reinitializeGeometry true
+/run/initialize
+/run/constructScoringWorlds
+/run/beamOn 10000
+
+#prossima run
+
+/detector/cryst_dZ 13
+/run/geometryModified
+/run/initialize
+/run/reinitializeGeometry true
+/run/initialize
+/run/constructScoringWorlds
+/run/beamOn 10000
+
+#prossima run
+
+/detector/cryst_dZ 14
+/run/geometryModified
+/run/initialize
+/run/reinitializeGeometry true
+/run/initialize
+/run/constructScoringWorlds
+/run/beamOn 10000
+
+#prossima run
+
+/detector/cryst_dZ 15
+/run/geometryModified
+/run/initialize
+/run/reinitializeGeometry true
+/run/initialize
+/run/constructScoringWorlds
+/run/beamOn 10000
+
+#prossima run
+
+/detector/cryst_dZ 16
+/run/geometryModified
+/run/initialize
+/run/reinitializeGeometry true
+/run/initialize
+/run/constructScoringWorlds
+/run/beamOn 10000
+
+#prossima run
+
+/detector/cryst_dZ 17
+/run/geometryModified
+/run/initialize
+/run/reinitializeGeometry true
+/run/initialize
+/run/constructScoringWorlds
+/run/beamOn 10000
+
+#prossima run
+
+/detector/cryst_dZ 18
+/run/geometryModified
+/run/initialize
+/run/reinitializeGeometry true
+/run/initialize
+/run/constructScoringWorlds
+/run/beamOn 10000
+
+#prossima run
+
+/detector/cryst_dZ 19
+/run/geometryModified
+/run/initialize
+/run/reinitializeGeometry true
+/run/initialize
+/run/constructScoringWorlds
+/run/beamOn 10000
+
+#prossima run
+
+/detector/cryst_dZ 20
+/run/geometryModified
+/run/initialize
+/run/reinitializeGeometry true
+/run/initialize
+/run/constructScoringWorlds
+/run/beamOn 10000
+
+

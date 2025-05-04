@@ -1,0 +1,8 @@
+/home/local1/geant4/B3b-brain-skull/build/CMakeFiles/install/strip.dir
+/home/local1/geant4/B3b-brain-skull/build/CMakeFiles/install/local.dir
+/home/local1/geant4/B3b-brain-skull/build/CMakeFiles/B3b.dir
+/home/local1/geant4/B3b-brain-skull/build/CMakeFiles/list_install_components.dir
+/home/local1/geant4/B3b-brain-skull/build/CMakeFiles/exampleB3b.dir
+/home/local1/geant4/B3b-brain-skull/build/CMakeFiles/edit_cache.dir
+/home/local1/geant4/B3b-brain-skull/build/CMakeFiles/rebuild_cache.dir
+/home/local1/geant4/B3b-brain-skull/build/CMakeFiles/install.dir
