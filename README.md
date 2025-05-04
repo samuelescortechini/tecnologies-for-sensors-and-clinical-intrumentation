@@ -39,6 +39,7 @@ The project evaluates how these variables affect:
 
 ## 📁 Repository Structure
 
+```plaintext
 technologies-for-sensors-and-clinical-instrumentation/
 ├── head/ <- Simulation for head phantom (PET + skull + brain)
 │ ├── build/ <- Executable compiled via CMake
@@ -50,6 +51,7 @@ technologies-for-sensors-and-clinical-instrumentation/
 │ ├── (..)
 ├── presentation/ <- PowerPoint summarizing methodology and results
 └── README.md <- General overview and usage instructions (this file)
+```
 
 ---
 
