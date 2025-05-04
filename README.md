@@ -1,9 +1,22 @@
 # 🧠🫁 PET Simulation Project – Geant4 for Clinical Instrumentation
 
-This repository contains a project developed for the *Technologies for Sensors and Clinical Instrumentation* course at Politecnico di Milano.  
-It includes two full **Geant4-based PET simulations** designed to evaluate how different detector geometries influence the quality of image reconstruction and the efficiency of good interaction detection.
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <img src="simulation.png" alt="Geant4 PET Simulation" width="200">
+    </td>
+    <td>
+      <p>
+        This repository contains a project developed for the <em>Technologies for Sensors and Clinical Instrumentation</em> course at Politecnico di Milano.<br><br>
+        It includes two full <strong>Geant4-based PET simulations</strong> designed to evaluate how different detector geometries influence the quality of image reconstruction and the efficiency of good interaction detection.
+      </p>
+      <p>
+        🎯 The ultimate goal is to <strong>maximize image quality</strong> while <strong>minimizing the radiation dose</strong> delivered to the patient.
+      </p>
+    </td>
+  </tr>
+</table>
 
-🎯 The ultimate goal is to **maximize image quality** while **minimizing the radiation dose** delivered to the patient.
 
 ---
 

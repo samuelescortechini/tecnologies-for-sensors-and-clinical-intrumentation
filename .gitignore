@@ -1,0 +1,24 @@
+# Abaqus output files
+*.odb
+*.log
+*.lck
+*.dat
+*.sta
+*.com
+*.msg
+*.prt
+
+# MATLAB temporary files
+*.asv
+*.fig
+*.mdl
+*.slx
+*.autosave
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+*.bak
